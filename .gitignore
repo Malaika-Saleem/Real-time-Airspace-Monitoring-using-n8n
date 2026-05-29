@@ -27,3 +27,13 @@ Thumbs.db
 .coverage
 htmlcov/
 
+# API Key setup files (contain sensitive examples)
+SETUP_ENV.md
+SET_API_KEY.ps1
+SET_ENV_VAR.md
+SET_KEY_IN_TERMINAL.md
+SET_NEW_API_KEY.ps1
+FIX_API_KEY.md
+TROUBLESHOOTING_API_KEY.md
+fix_key_now.ps1
+
