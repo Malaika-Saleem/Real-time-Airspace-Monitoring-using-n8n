@@ -1,0 +1,8 @@
+{
+  "service": "airspace-mcp",
+  "tools": {
+    "flights.list": {"endpoint": "http://127.0.0.1:8000/mcp/tool/flights.list", "description": "List flights for a region"},
+    "flights.get": {"endpoint": "http://127.0.0.1:8000/mcp/tool/flights.get", "description": "Get flight by callsign or icao24"},
+    "alerts.list": {"endpoint": "http://127.0.0.1:8000/mcp/tool/alerts.list", "description": "List active alerts"}
+  }
+}
